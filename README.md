@@ -6,4 +6,6 @@ To do this, I modelled the edges as springs (which try to minimize the tension i
 
 Then using the concepts of 'Hill Climbing/Simulated Annealing' which I learning in Aj.Piti's Numerical Method Class, I chose a variation of the 'Spring Embedded Graph' function as my cost function. I tried to minimize the cost iteratively by reducing the 'spring tension' the edge or 'repulsion force' of node chosen at random.
 
-The process I have used should be somewhat similar to some of Wolfram Alpha's or NX Library's Graph Drawing Algorithms.
+The process I have used should be somewhat similar to some of Wolfram Alpha's or NX Library's Graph Drawing Algorithms. In fact, I used a variation of Wolfram's Spring Embedding equation shown here (http://reference.wolfram.com/language/tutorial/GraphDrawingIntroduction.html#194525651).
+
+All in all, it was fun experimenting with a cool Machine Learning concept I had just learned!
