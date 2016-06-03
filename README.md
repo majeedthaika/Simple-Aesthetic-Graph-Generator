@@ -1,4 +1,4 @@
-# Simple-Aesthetic-Graph-Generator
+# Simple-Aesthetic-Graph-Generator-(ML)
 
 My short attempt at making any given graph (with nodes and edges) seem 'visually appealing' in iPython rather than arranging it randomly.
 
